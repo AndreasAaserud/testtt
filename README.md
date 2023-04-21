@@ -13,6 +13,7 @@ App JS details
 
 ```javascript
 console.log("Hello world")
+```
 
 ## Contributing
 ME :)
