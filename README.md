@@ -15,5 +15,5 @@ App JS details
 console.log("Hello world")
 ```
 ## Fourth header
-## Contributing
+## contributing
 ME :)
